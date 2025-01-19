@@ -11,7 +11,7 @@
 
 ## Let's Connect
 <div id="badges">
-  <a href="">
+<!--   <a href="">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> &nbsp
   <a href="">
@@ -19,7 +19,11 @@
 	</a>
  <a href="">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-	</a><br>
+	</a><br> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=" alt="" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@aniketgawa88317" target="blank"><img src="https://img.shields.io/twitter/follow/@aniketgawa88317?logo=twitter&style=for-the-badge" alt="@aniketgawa88317" /></a> </p>
+
 
 </div>
 
