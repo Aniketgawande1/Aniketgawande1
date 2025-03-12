@@ -56,9 +56,10 @@
 
 # 📊 GitHub Insights
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aniketgawande1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgawande1&layout=compact&theme=dracula"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketgawande1&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aniketgawande1&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgawande1&layout=compact&theme=onedark"/>
+  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=Aniketgawande1&theme=onedark"/>
+  <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketgawande1&theme=algolia" alt="Streak Stat"/>
 </p>
 
 ---
