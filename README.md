@@ -60,38 +60,32 @@ I believe in the **DevOps culture**—making development cycles faster and more 
 </div>
 
 
-
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Insights
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aniketgawande1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+  
+  <br/><br/>
+
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Aniketgawande1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=151515&title_color=F15F79&icon_color=92FE9D" width="450" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Aniketgawande1&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=151515&title_color=F15F79&icon_color=92FE9D&text_color=ffffff" width="450" alt="Aniket's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgawande1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=151515&title_color=F15F79&icon_color=92FE9D" width="350" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgawande1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=151515&title_color=F15F79&icon_color=92FE9D&text_color=ffffff" width="350" alt="Aniket's Top Languages" />
       </td>
     </tr>
   </table>
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketgawande1&theme=tokyonight&hide_border=true&background=151515&ring=F15F79&currStreakLabel=F15F79" alt="Streak Stat" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketgawande1&theme=tokyonight&hide_border=true&background=151515&ring=F15F79&currStreakLabel=F15F79&fire=F15F79&sideNums=ffffff&sideLabels=ffffff" alt="Aniket's Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketgawande1&theme=tokyonight&bg_color=151515&color=92FE9D&line=F15F79&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
-
-<br />
-
-
-# 📊 GitHub Insights
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aniketgawande1&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgawande1&layout=compact&theme=onedark"/>
-  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=Aniketgawande1&theme=onedark"/>
-  <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketgawande1&theme=algolia" alt="Streak Stat"/>
-</p>
-
----
 
 ### ✨ Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad."
