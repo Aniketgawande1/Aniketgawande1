@@ -1,71 +1,87 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=00C9FF,92FE9D,F15F79,B24592&height=280&section=header&text=Aniket%20Gawande&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Web%20Dev%20%E2%80%A2%20DevOps%20%E2%80%A2%20Cloud%20Architecture&descAlignY=55&descSize=22" alt="Aniket Header" />
 
-# 👋 Hey, I'm Aniket!
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F15F79&background=00000000&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Mastering+AWS+%26+DevOps;Teaching+Python+%26+Cloud;Automating+with+Python+%26+Docker" alt="Typing SVG" />
+  </a>
+</div>
 
-🚀 Passionate about web development, cloud, and DevOps, always eager to learn, teach, and grow. Here's a bit about me:
+<div align="center">
+  <a href="https://www.linkedin.com/in/aniketgawande1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/aniketgawa88317">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/aniketgawande1">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+  <a href="mailto:aniketgawande130@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
-- 🌱 Currently mastering **Node.js** and **python**
-- 🧑‍🏫 Teaching **Python** and cloud AWS services like **EC2**, **Lambda**, and **Beanstalk**
-- 🧠 Delving deep into **Data Structures and Algorithms**
-- 🔥 Exploring the **MERN Stack**, **Python**, **Linux**, and building **CLI projects** for corporate use
-- 🐳 Leveling up my **Docker** and containerization skills—building, optimizing, and deploying containerized apps
-- ✍️ Sharing my journey and learnings with the tech community
+<br />
 
 ---
 
-## 🌐 Let's Connect and Collaborate
-<div id="badges">
-  <a href="https://www.linkedin.com/in/aniketgawande1">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://twitter.com/aniketgawa88317">
-    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://dev.to/aniketgawande1">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+### 👨‍💻 About Me
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" align="right" />
+
+I am a passionate developer focused on **Web Development, Cloud, and DevOps**. I love bridging the gap between writing code and deploying it to production. My goal is to build scalable architectures that are efficient, secure, and automated.
+
+I believe in the **DevOps culture**—making development cycles faster and more reliable. Whether it's configuring an AWS VPC or writing a Python script to automate a boring task, I enjoy every part of the stack.
+
+#### 🔭 What I'm Working On:
+- **Mastering Cloud:** Deep diving into **Node.js, Python & AWS Cloud Architecture**.
+- **Teaching & Mentoring:** Sharing knowledge on **Python, EC2, Lambda, & Elastic Beanstalk**.
+- **DevOps Engineering:** Optimizing deployments using **Docker & Kubernetes**.
+- **Problem Solving:** Continuously improving my skills in **Data Structures & Algorithms**.
+
+<br clear="right"/>
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aniketgawande1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 </div>
 
 ---
 
-## ⚡ Tech Stack & Tools
+### 🚀 Tech Stack & Tools
 
-### 🚀 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,nextjs,nodejs,express,aws,docker,kubernetes,nginx,linux,ubuntu,fedora,git,github,postman&perline=9" />
+</div>
 
-### 🛠️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🐳️ Docker & Containerization
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🔡️ Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-E25825?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Beanstalk-6B8E23?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 📊 GitHub Analytics
 
----
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Aniketgawande1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=151515&title_color=F15F79&icon_color=92FE9D" width="450" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgawande1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=151515&title_color=F15F79&icon_color=92FE9D" width="350" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketgawande1&theme=tokyonight&hide_border=true&background=151515&ring=F15F79&currStreakLabel=F15F79" alt="Streak Stat" />
+</div>
+
+<br />
+
 
 # 📊 GitHub Insights
 <p align="center">
@@ -86,6 +102,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aniketgawande1&style=flat-square&color=blue" alt="Aniketgawande1" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=B24592,F15F79,92FE9D,00C9FF&height=100&section=footer" width="100%"/>
+  <br>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Aniketgawande1&style=flat-square&color=blue" alt="Profile Views" />
+</div>
